@@ -1,0 +1,1 @@
+function onRightjs(){var t=document.getElementById("rocketship"),e=0;for(document.getElementById("button").style.color="black",alert(t);e<200;)t.style.left=++e}
